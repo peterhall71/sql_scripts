@@ -9,3 +9,5 @@ A script for taking several similar csv files, loading them to R, combining them
 
 #### combine_all_csv_in_folder.R
 A script for taking a large number of csv files in the same folder, loading them to R, combining them row wise, and writing to a network MySQL database.
+
+#### query_table_write_to_csv.R
